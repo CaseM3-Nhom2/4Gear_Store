@@ -1,0 +1,374 @@
+.col-md-2 {
+    margin-top: -10px;
+}
+
+.custom-text-white {
+    color: aliceblue !important;
+    font-weight: bold;
+}
+
+.input_text {
+    margin-top: 20px;
+    outline: none;
+}
+
+h4 {
+
+    font-size: 16px;
+    overflow: hidden !important;
+
+}
+
+a {
+    text-decoration: none;
+    color: black;
+}
+
+.asus_product {
+    font-size: 15px;
+}
+
+.price {
+    font-weight: bolder;
+    color: #b02a37;
+    font-size: 23px;
+}
+
+.name_product {
+    font-size: 40px;
+}
+
+.info {
+    font-size: 15px;
+}
+
+.box50 {
+    width: 40px;
+    height: 40px;
+    text-align: center;
+    line-height: 40px;
+    display: inline-block;
+    background-color: blue;
+    border-radius: 30%;
+    margin-right: 10px;
+}
+
+.tiktok {
+    background-color: black;
+}
+
+.youtube {
+    background-color: red;
+}
+
+.google {
+    background-color: #0be3e3;
+}
+
+.btn {
+    background-color: #212529;
+    color: white;
+    font-size: 12px;
+}
+
+.btn:hover {
+    color: white;
+    background-color: #dc3545;
+
+}
+
+.slide {
+    z-index: 1;
+}
+
+.cart {
+    margin-top: -1px;
+}
+
+/*!*.user,*!*/
+/*.call {*/
+/*    margin-top: 15px;*/
+/*    margin-left: 20px;*/
+/*}*/
+
+
+input {
+    border: 1px solid #ccc;
+}
+
+input:focus {
+    border: 1px solid #ccc !important;
+    outline: none !important;
+    box-shadow: none !important;
+}
+
+.logo {
+    height: 120px;
+}
+
+.collapse .nav-item {
+    margin-left: 30px;
+}
+
+.collapse .nav-item {
+
+    margin-left: 20px;
+}
+
+.img_logo {
+    width: 120px;
+    height: 60px;
+}
+
+.img_msi {
+    margin-top: 14px;
+    width: 130px;
+    height: 40px;
+}
+
+.collapse .nav-item:hover {
+    background-color: #cbccce;
+    border-radius: 10px
+}
+
+.img_dell {
+    margin-top: 6px;
+    width: 100px;
+    height: 50px;
+}
+
+.img_acer {
+    margin-top: 12px;
+    width: 100px;
+    height: 40px;
+}
+
+.img_giga {
+    margin-top: 10px;
+    width: 140px;
+    height: 50px;
+}
+
+.img_lenovo {
+    margin-top: 12px;
+    width: 100px;
+    height: 40px;
+}
+
+.myMenu {
+    background-color: #86b7fe;
+}
+
+.head_menu {
+    margin-left: 220px;
+}
+
+.img_sell:hover {
+    cursor: pointer;
+    transition: transform 0.3s ease, opacity 0.3s ease;
+    transform: scale(1.1);
+}
+
+.img_sell {
+    width: 230px;
+    height: 230px;
+    transition: transform 0.3s ease
+}
+
+.best_sell {
+
+    width: 250px;
+    height: 250px;
+
+}
+
+.bl:hover {
+    background-color: transparent !important;
+    border: none !important;
+    box-shadow: none !important;
+    transform: scale(1.1) !important;
+    transition: transform 0.3s ease !important;
+}
+
+.bl {
+    margin-right: 60px;
+    margin-top: 30px;
+
+
+}
+main-logo:hover{
+    cursor: pointer;
+}
+
+.bs:hover {
+    background-color: transparent !important;
+    border: none !important;
+    box-shadow: none !important;
+    transform: scale(1.1) !important;
+    transition: transform 0.3s ease !important;
+}
+
+.bs {
+
+    margin-right: 106px;
+    margin-top: 40px;
+    transition: transform 0.3s ease
+
+}
+
+.big_sale {
+    width: 200px;
+    height: 200px;
+
+}
+
+.video:hover {
+    background-color: transparent !important;
+    border: none !important;
+    box-shadow: none !important;
+
+}
+
+.ads {
+    background-image: linear-gradient(to right, #fffbd5, #b20a2c);
+    margin-top: 20px;
+}
+
+video {
+
+    width: 600px;
+    height: 300px;
+}
+
+.main_content {
+    background-image: linear-gradient(90deg, rgba(231,186,176,1) 0%, rgba(247,241,241,1) 83%);
+
+}
+
+.user_name {
+
+    overflow: hidden !important;
+}
+#navbarSupportedContent{
+    margin-left: 250px;
+}
+#signup{
+    padding: 180px;
+}
+.user p {
+    white-space: nowrap;
+    overflow: hidden;
+    margin: 0;
+    padding: 0;
+    max-width: 100%;
+    box-sizing: border-box;
+}
+.row {
+    display: flex;
+    align-items: center;
+}
+
+
+.col-3 {
+    flex-shrink: 0;
+}
+
+
+.col-9 {
+    flex: 1;
+    overflow: hidden;
+    white-space: nowrap;
+}
+
+
+.col-9 p {
+    text-overflow: ellipsis;
+    overflow: hidden;
+    margin: 0;
+}
+.input_text {
+    margin: 0;
+    padding: 0;
+}
+.col-md-4 {
+    display: flex;
+    flex-direction: column;
+}
+.input_text .row {
+    display: flex;
+    align-items: center;
+    width: 100%;
+}
+.input_text .col-9 {
+    overflow: hidden;
+    text-overflow: ellipsis;
+    white-space: nowrap;
+}
+.input_text .row {
+    margin-bottom: 0;
+}
+.call{
+    margin-left: 10px;
+}
+.search-product{
+    margin-top: 20px;
+}
+
+.head-product-title, .product-gallery{
+    margin-top: 10px;
+}
+
+.product-gallery {
+    box-shadow: 0px 0px 10px rgba(0, 0, 0, 50);
+    background-color: #000;
+    margin-left: 10px;
+    margin-bottom: 20px;
+}
+
+
+.green{
+    font-size: 30px;
+}
+
+
+
+.text{
+    color: white;
+}
+
+.quantity-input{
+    width: 50px;
+    border-radius: 5px;
+}
+
+.action-buttons .btn {
+    width: 48%;
+    font-size: 16px;
+    padding: 10px;
+    border-radius: 5px;
+}
+
+.action-buttons .btn-danger, .action-buttons .btn-primary {
+    border-radius: 10px;
+    margin-right: 10px;
+}
+
+.action-buttons .btn:hover {
+    opacity: 0.9;
+}
+
+.views-rating, .product-brand, .product-type, .product-details {
+    font-size: 20px;
+}
+
+.row1{
+    background-color: white;
+    box-shadow: 0px 0px 5px rgba(0, 0, 0, 10);
+}
+
+.office img{
+    margin-top: 20px;
+    width: 98%;
+    height: 200px;
+    border: 10px solid orangered;
+}
